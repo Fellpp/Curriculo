@@ -1,6 +1,6 @@
 name: Felipe Nolasco
-support_dark_mode: true
-fork: true
+support_dark_mode: true 
+fork: true 
 
 # Sidebar
 contact:
@@ -28,7 +28,7 @@ skills:
      
 # Profile
 profile: Estudante do segundo grau, cursando um técnico em informática e Designer Gráfico nas horas vagas. Como aluno, sou apaixonado por aprender, e como designer gráfico
-gosto de resolver problemas de formas criativas. Proativo, perspicaz, produtivo, responsável e criativo são adjetivos wue me descrevem bem.
+gosto de resolver problemas de formas criativas. Proativo, perspicaz, produtivo, responsável e criativo são adjetivos que me descrevem bem. Tenho experiência trabalhando em equipe, tenho boa comunicação e afinidade com tecnologia.
 
 # Experience
 experience:
@@ -61,4 +61,4 @@ volunteering:
   - time: none
     role: none
     company: none
-    details: none.
+    details: none
