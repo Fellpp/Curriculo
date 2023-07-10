@@ -46,10 +46,10 @@ profile: |
 
 # Experience
 experience:
-   role: Programador
-   time: 2023-Presente
-   company: None
-   details: |
+  - role: Programador
+    time: 2023-Presente
+    company: None
+    details: |
      Aprendiz em programação atuando principalmente na área de frontend.
     technologies_used: | 
       HTML, Java, Python, C++
