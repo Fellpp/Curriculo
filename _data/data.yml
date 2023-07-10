@@ -1,108 +1,74 @@
-name: John Doe
-support_dark_mode: true
-fork: true
+name: Felipe Nolasco
+support_dark_mode: true 
+fork: true 
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: fellppnopc@gmail.com
+  github: Fellpp
+  linkedin: Felipe Nolasco
+  phone: (84)99701-9193
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Português
+  - idiom: Ingês
+  - idiom: Espanhol
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: Técnico em Informática
+    time: 2023-2027
+    university: Instituto Federal do Rio Grande do Norte
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Segundo Grau 
+    time: 2023-2027
+    university: Instituto Federal do Rio Grande do Norte
 
 skills:
-  - category: Backend
+  - category: Dominância em artes visuais
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Manipulação de imagens
+      - Criação de identidades visuais
+  - category: Informática
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Software
+      - Hardware
+  - category: Programador
     skill:
-      - Docker
-      - Kubernetes 
+      - Frontend
+      - Beckend
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+ Sou proativo, perspicaz e determinado. Tenho maestria em trabalho em equipe e individual. Como estudante sou apaixonado por aprender de formas dinâmicas,
+ como designer gosto de resolver problemas de formas criativas e inusitadas. Tenho boa comunicação e bastante afinidade com tecnologia em geral.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Programador
+    time: 2023-Presente
+    company: None
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+     Aprendiz em programação atuando principalmente na área de frontend.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      HTML, Java, Python, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Designer Gráfico
+    time: 2017-Presente
+    company:Autonômo 
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+    No tempo livre, trabalho como designer para gerar renda extra, tenho afinidade com artes visuais desde muito jovem.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Adobe Photoshop, Adobe LightRoom, Canva Studio
 
 publications:
-  - title: Random title of paper. An interesting one.
+  - title: None
     link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
+    authors: None
+    conference: None
 
-  - title: Second title of paper. An interesting one too.
+  - title: None
     link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-# Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    authors: None
+    conference: None
