@@ -1,64 +1,108 @@
-name: Felipe Nolasco
-support_dark_mode: true 
-fork: true 
+name: John Doe
+support_dark_mode: true
+fork: true
 
 # Sidebar
 contact:
-  email: felpnopc@gmail.com
-  github: Fellpp
-  linkedin: Felipe Nolasco
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
   phone: 
   gitlab: 
   twitter: 
 
 languages:
-  - idiom: Português 
-  - idiom: Inglês 
-  - idiom: Espanhol (básico)
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
 
 education:
-  - degree: Cursando segundo grau
-    time: 2023-2027
-    university: Instituto Federal do Rio Grande do Norte 
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
+
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
-  - category: Tecnológicas e Visuais 
-    skill: Afinidade com Hadware e software e dominância em manipulação de imagens.
+  - category: Backend
+    skill: 
+      - Go
+      - Rust
+  - category: Frontend
+    skill:
+      - React
+      - Typescript
+  - category: DevOps
+    skill:
+      - Docker
+      - Kubernetes 
 
-     
 # Profile
-profile: Estudante do segundo grau, cursando um técnico em informática e Designer Gráfico nas horas vagas. Como aluno, sou apaixonado por aprender, e como designer gráfico
-gosto de resolver problemas de formas criativas. Proativo, perspicaz, produtivo, responsável e criativo são adjetivos que me descrevem bem. Tenho experiência trabalhando em equipe, tenho boa comunicação e afinidade com tecnologia.
+profile: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Designer Gráfico 
-    time: Flexível 
-    company: Autônomo 
-    details: Designer Gráfico atuando na área de manipulação de imagens principalmente.
-
-  technologies_used: Adope PhotoShop, Canva Studio e Adobe LightRoom.
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Go, Angular, Typescript, C++
   
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: none
+  - title: Random title of paper. An interesting one.
     link: "#"
-    authors: none
-    conference: none
+    authors: John E. Doe
+    conference: Some conference, 2016
 
-  - title: none
+  - title: Second title of paper. An interesting one too.
     link: "#"
-    authors: none
-    conference: none
+    authors: John E. Doe
+    conference: Some conference again, 2018
 
 projects:
-  - title: none
-    link: "#"
-    details: none
-      
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
 # Volunteering
-volunteering: 
-  - time: none
-    role: none
-    company: none
-    details: none
+volunteering:
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
